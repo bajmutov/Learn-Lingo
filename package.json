@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "learn-lingo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bajmutov.github.io/react-template/",
+  "homepage": "https://bajmutov.github.io/Learn-Lingo/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.1.0",
     "@testing-library/jest-dom": "^5.16.3",

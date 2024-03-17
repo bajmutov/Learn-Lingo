@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     {/* <PersistGate loading={null} persistor={persistor}>
       <Provider store={store}> */}
-    <BrowserRouter basename="/react-template">
+    <BrowserRouter basename="/Learn-Lingo">
       <App />
     </BrowserRouter>
     {/* </Provider>
